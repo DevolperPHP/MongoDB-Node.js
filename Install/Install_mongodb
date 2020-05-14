@@ -1,0 +1,19 @@
+to install mongodb you should install it from this website
+https://www.mongodb.com/download-center
+
+after you install it and setup the mongodb open the cmd panel
+on "bin" file and type "mongod" to run the database
+
+to make sure that the mongodb is working go to services
+and search for mongodb and you must see it running
+
+after that you can download mongodb compass to open and see
+the data bases
+
+now open your project on your IDE , editor or cmd and install the packages
+by typing:-
+npm install mongodb
+npm install mongod
+npm install mongoose
+
+and have fun with mongo ;)
